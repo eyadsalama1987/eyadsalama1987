@@ -29,17 +29,20 @@ I build the systems organisations run on, and the AI that runs inside them.
 | Project | What it is | Highlights |
 |---|---|---|
 | **Palestinian Orphan Home Platform** | Enterprise system for an orphan-care organisation in Gaza | ~75,000 beneficiary files · 10 branches · AI assistant, AI translation, automatic donor forms |
+| **LLM & RAG Load Balancing** | Research on serving private LLM & RAG assistants on mixed GPU clusters | Static, dynamic, predictive and RL routing, incl. a marginal-cost router · private document-aware RAG assistant |
+| **Smart-ERP** | Arabic SaaS ERP platform for restaurants and retail | POS, kitchen, inventory with costing, accounting, purchasing, CRM, HR · .NET 10 + Next.js · modular core with gateway & identity services |
 | **Low-Quality Face Recognition** | Master's research in computer vision | 96% correct identification vs 3% confident mistakes, without AI face restoration |
-| **LLM & RAG Load Balancing** | Research on serving private LLM assistants on mixed GPU clusters | Static, dynamic, predictive and RL routing, incl. a marginal-cost router |
+| **Private AI Workspace** | On-premise LLM & RAG platform built for a company | Dify, Ollama & AnythingLLM · local DeepSeek-R1 & Qwen models · MCP servers for Oracle and SQLite · no data leaves the organisation |
+| **Arabic Conversation Transcriber** | Arabic speech-to-text with speaker identification | Transcribes Arabic conversations and labels who said what |
 
-> Case studies are available on my [LinkedIn Featured section](https://www.linkedin.com/in/eks87). Client code is private.
+> Case studies are available on my [LinkedIn Featured section](https://www.linkedin.com/in/eks87). Client code is private and can be demonstrated on request.
 
 ## 🛠️ Tech stack
 
-- **Backend:** ASP.NET Core · C# · Node.js · REST APIs
-- **Frontend:** Vue.js · JavaScript / TypeScript
-- **Data:** SQL Server · MySQL · PL/SQL
-- **AI / ML:** LLMs · RAG · Vector databases · Deep learning & neural networks · NLP · Computer vision · GPU inference serving
+- **Backend:** ASP.NET Core / .NET · C# · Node.js · REST APIs · Microservices
+- **Frontend:** Vue.js · Next.js (React) · TypeScript
+- **Data:** SQL Server · MySQL · Oracle PL/SQL
+- **AI / ML:** LLMs · RAG · Ollama · Dify · MCP · Vector databases · Deep learning & neural networks · NLP · Computer vision · GPU inference serving
 - **DevOps:** Docker · Linux · IIS
 
 ## 📫 Let's connect
