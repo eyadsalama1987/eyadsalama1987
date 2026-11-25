@@ -7,6 +7,7 @@
 I build the systems organisations run on, and the AI that runs inside them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eks87-0B4F7C?style=flat&logo=linkedin)](https://www.linkedin.com/in/eks87)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-eyadsalama87-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/eyadsalama87)
 [![YouTube](https://img.shields.io/badge/YouTube-Deveks%20Talks-E2A93B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@DeveksAI)
 [![Website](https://img.shields.io/badge/Website-deveks.com-0B4F7C?style=flat)](https://deveks.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6943--4363-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6943-4363)
