@@ -30,7 +30,6 @@ I build the systems organisations run on, and the AI that runs inside them.
 |---|---|---|
 | **Palestinian Orphan Home Platform** | Enterprise system for an orphan-care organisation in Gaza | ~75,000 beneficiary files · 10 branches · AI assistant, AI translation, automatic donor forms |
 | **LLM & RAG Load Balancing** | Research on serving private LLM & RAG assistants on mixed GPU clusters | Static, dynamic, predictive and RL routing, incl. a marginal-cost router · private document-aware RAG assistant |
-| **Smart-ERP** | Arabic SaaS ERP platform for restaurants and retail | POS, kitchen, inventory with costing, accounting, purchasing, CRM, HR · .NET 10 + Next.js · modular core with gateway & identity services |
 | **Low-Quality Face Recognition** | Master's research in computer vision | 96% correct identification vs 3% confident mistakes, without AI face restoration |
 | **Private AI Workspace** | On-premise LLM & RAG platform built for a company | Dify, Ollama & AnythingLLM · local DeepSeek-R1 & Qwen models · MCP servers for Oracle and SQLite · no data leaves the organisation |
 | **Arabic Conversation Transcriber** | Arabic speech-to-text with speaker identification | Transcribes Arabic conversations and labels who said what |
